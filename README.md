@@ -2,39 +2,42 @@
 
 This repository contains SQL subquery practice problems using an employeesales table. Each query is designed to help users understand how to apply subqueries in real-world business scenarios such as comparing sales figures across months, filtering by top performers, and using aggregate functions within subqueries. Curated set of SQL practice queries focused on subqueries, department-level aggregation, and self-comparison techniques.
 
-🔍 What You'll Learn
-How to use scalar subqueries to compare sales against maximum or average values.
+**🔍 What You'll Learn**
 
-How to apply correlated subqueries for row-by-row department comparisons.
+- How to use scalar subqueries to compare sales against maximum or average values.
 
-Using subqueries in the WHERE and HAVING clauses to filter data based on grouped metrics.
+- How to apply correlated subqueries for row-by-row department comparisons.
 
-Performing self-joins to compare an employee’s sales across different time periods.
+- Using subqueries in the WHERE and HAVING clauses to filter data based on grouped metrics.
 
-Identifying top and non-top performers within each department.
+- Performing self-joins to compare an employee’s sales across different time periods.
 
-Generating department-wise average sales and comparing individual performance to team benchmarks.
+- Identifying top and non-top performers within each department.
 
-Use scalar subqueries to compare with single values (e.g., max or average sales).
+- Generating department-wise average sales and comparing individual performance to team benchmarks.
 
-Use correlated subqueries to compare row-by-row across departments.
+- Use scalar subqueries to compare with single values (e.g., max or average sales).
 
-Use subqueries in IN and EXISTS clauses for filtering logic.
+- Use correlated subqueries to compare row-by-row across departments.
 
-Apply subqueries with GROUP BY and HAVING for department-level analytics.
+- Use subqueries in IN and EXISTS clauses for filtering logic.
 
-🧠 Who Is This For?
-Beginners learning SQL and subqueries.
+- Apply subqueries with GROUP BY and HAVING for department-level analytics.
 
-Data analysts practicing SQL interview questions.
+**🧠 Who Is This For?**
 
-Anyone building foundational SQL querying skills.
+- Beginners learning SQL and subqueries.
 
-🚀 Getting Started
-Use any SQL-compatible database (e.g., MySQL, PostgreSQL, SQLite).
+- Data analysts practicing SQL interview questions.
 
-Create the employeesales table.
+- Anyone building foundational SQL querying skills.
 
-Run each query and understand the logic behind the subquery.
+**🚀 Getting Started**
 
-Try modifying them or creating similar queries on your own dataset.
+- Use any SQL-compatible database (e.g., MySQL, PostgreSQL, SQLite).
+
+- Create the employeesales table.
+
+- Run each query and understand the logic behind the subquery.
+
+- Try modifying them or creating similar queries on your own dataset.
